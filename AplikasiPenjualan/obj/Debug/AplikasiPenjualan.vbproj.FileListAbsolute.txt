@@ -1,0 +1,12 @@
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.exe.config
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.exe
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.pdb
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.xml
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\obj\Debug\AplikasiPenjualan.vbprojResolveAssemblyReference.cache
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\obj\Debug\AplikasiPenjualan.FormLogin.resources
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\obj\Debug\AplikasiPenjualan.FormMenuUtama.resources
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\obj\Debug\AplikasiPenjualan.Resources.resources
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\obj\Debug\AplikasiPenjualan.vbproj.GenerateResource.Cache
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\obj\Debug\AplikasiPenjualan.exe
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\obj\Debug\AplikasiPenjualan.xml
+C:\Alfredo\VB\Project VB\AplikasiPenjualan\AplikasiPenjualan\obj\Debug\AplikasiPenjualan.pdb
